@@ -1,0 +1,4 @@
+blue #063251
+black #222
+red #bb2525
+green #25bb32
