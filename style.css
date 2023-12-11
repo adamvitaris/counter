@@ -27,8 +27,9 @@ p {
     background-color: #f1f5f8;
     border-radius: 8px;
     border-style: solid;
-    padding: 10px;
-    margin: 6px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
 }
 
 .btn:hover {
